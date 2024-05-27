@@ -177,7 +177,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐃𝐄𝐕𝐈𝐋](https://t.me/VP_1203) ғᴏʀ [𝑮𝑼𝑷𝑷 𝑺𝑯𝑼𝑷𝑷 𝑴𝑼𝑺𝑰𝑪 𝑩𝑶𝑻](https://t.me/gupp_shupp_logs_support)_ </b>
 
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AnieXEricaMusic&theme=chartreuse-dark"></a>
-
 
