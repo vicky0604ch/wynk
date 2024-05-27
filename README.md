@@ -171,9 +171,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 </h3>
 
-<p align="center">
-<a href="https://t.me/gupp_shupp_logs_support"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
-</p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐃𝐄𝐕𝐈𝐋](https://t.me/VP_1203) ғᴏʀ [𝑮𝑼𝑷𝑷 𝑺𝑯𝑼𝑷𝑷 𝑴𝑼𝑺𝑰𝑪 𝑩𝑶𝑻](https://t.me/gupp_shupp_logs_support)_ </b>
 
