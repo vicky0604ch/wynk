@@ -166,7 +166,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://t.me/gupp_shupp_logs_support)
+- [ᴅᴇᴠɪʟʙᴏᴛꜱ](https://t.me/gupp_shupp_logs_support)
 </details>
 
 </h3>
