@@ -65,12 +65,12 @@
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/botverse_community",
+        "value": "https://t.me/+lRMjYBcCt3tjN2E1",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/botverse_support",
+        "value": "https://t.me/+lRMjYBcCt3tjN2E1",
         "required": true
       },
       "STRING_SESSION": {
