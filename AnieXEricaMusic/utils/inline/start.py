@@ -33,7 +33,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/Dynofed"),
             InlineKeyboardButton(
                 text=_["S_B_7"],
                 url=f"https://graph.org/file/133920a600026f2ba9972.mp4",
